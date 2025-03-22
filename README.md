@@ -1,6 +1,6 @@
 ![banner](https://github.com/Dibyajyoti470/Dibyajyoti470/blob/main/assets/banner.png)
 
-<h1>Hey there, I’m Dibyajyoti Choudhury! 👋</h1>
+<h1>👋 Hey there, I’m Dibyajyoti Choudhury!</h1>
 <h3>Your Friendly Neighborhood Software Engineer 👨‍💻</h3>
 
 🔍 **Seeking:** Exciting open-source projects in MEAN/MERN stacks and Design Systems.<br>
