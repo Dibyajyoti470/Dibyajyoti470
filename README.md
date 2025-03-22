@@ -1,4 +1,4 @@
-![banner](https://github.com/Dibyajyoti470/Dibyajyoti470/blob/main/Dibyajyoti%20Choudhury.png)
+![banner](https://github.com/Dibyajyoti470/Dibyajyoti470/blob/main/assets/banner.png)
 
 <h1>Hey there, I’m Dibyajyoti Choudhury! 👋</h1>
 <h3>Your Friendly Neighborhood Software Engineer 👨‍💻</h3>
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dibyajyoti-choudhury"><img align="center" src="https://github.com/Dibyajyoti470/Dibyajyoti470/blob/main/assets/linkedin.png" alt="dibyajyoti-choudhury" height="40" width="40" /></a>
-<a href="https://twitter.com/dibyajyoti66931"><img align="center" src="https://github.com/Dibyajyoti470/Dibyajyoti470/blob/main/assets/x.png" alt="dibyajyoti66931" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/dibyajyoti-choudhury" rel="noreferrer"><img align="center" src="https://github.com/Dibyajyoti470/Dibyajyoti470/blob/main/assets/linkedin.png" alt="dibyajyoti-choudhury" height="35" width="35" /></a>
+<a href="https://twitter.com/dibyajyoti66931" rel="noreferrer"><img align="center" src="https://github.com/Dibyajyoti470/Dibyajyoti470/blob/main/assets/x.png" alt="dibyajyoti66931" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
