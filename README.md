@@ -11,7 +11,7 @@
 -->
 
 🔍 **Seeking:** Exciting open-source projects in MEAN/MERN stacks and Design Systems.<br>
-💬 **Ask Me About:** Building scalable web apps, integrating APIs, and crafting intuitive UIs.<br>
+💬 **Ask Me About:** Building scalable web apps and crafting intuitive UIs.<br>
 📫 **Contact:** **contact@dibyajc.com** | **dev.dibyajc@gmail.com**<br>
 ⚙️ **Primary Tech Stack:** TypeScript, Angular, React, Tailwind, Node.js, Express, MongoDB.<br>
 ⚡ **Fun Fact:** I code, therefore I am… funny (at least my console thinks so).<br>
