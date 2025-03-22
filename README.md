@@ -1,7 +1,7 @@
 ![banner](https://github.com/Dibyajyoti470/Dibyajyoti470/blob/main/Dibyajyoti%20Choudhury.png)
 
 <h1>Hey there! I'm Dibyajyoti Choudhury</h1>
-<h3>Your Friendly Neighborhood Software Engineer 💻</h3>
+<h3>Your Friendly Neighborhood Software Engineer 👨‍💻</h3>
 
 - 💬 Ask me about **MEAN, MERN, Design Systems**
 
