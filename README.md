@@ -1,13 +1,20 @@
 ![banner](https://github.com/Dibyajyoti470/Dibyajyoti470/blob/main/Dibyajyoti%20Choudhury.png)
 
-<h1>Hey there! I'm Dibyajyoti Choudhury</h1>
+<h1>Hey there, I’m Dibyajyoti Choudhury! 👋</h1>
 <h3>Your Friendly Neighborhood Software Engineer 👨‍💻</h3>
 
-- 💬 Ask me about **MEAN, MERN, Design Systems**
+<!--- 🔍 I’m looking for **Exciting Open-Source projects in MEAN/MERN stacks and Design Systems**
 
-- 📫 How to reach me **dev.dibyajc@gmail.com**
+- 📫 Reach me at **contact@dibyajc.com**, **dev.dibyajc@gmail.com**
 
-- ⚡ Fun fact **I code, therefore I am… funny (at least my console thinks so).**
+- ⚡ Fun fact: **I code, therefore I am… funny (at least my console thinks so).**
+-->
+
+🔍 **Seeking:** Exciting open-source projects in MEAN/MERN stacks and Design Systems.<br>
+💬 **Ask Me About:** Building scalable web apps, integrating APIs, and crafting intuitive UIs.<br>
+📫 **Contact:** **contact@dibyajc.com** | **dev.dibyajc@gmail.com**<br>
+⚙️ **Primary Tech Stack:** TypeScript, Angular, React, Tailwind, Node.js, Express, MongoDB.<br>
+⚡ **Fun Fact:** I code, therefore I am… funny (at least my console thinks so).<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
