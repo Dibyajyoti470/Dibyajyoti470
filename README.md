@@ -3,6 +3,8 @@
 <h1>👋 Hey there, I’m Dibyajyoti Choudhury!</h1>
 <h3>Your Friendly Neighborhood Software Engineer 👨‍💻</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyajyoti470&label=Profile%20views&color=0e75b6&style=flat" alt="dibyajyoti470" /> </p>
+
 🔍 **Seeking:** Exciting open-source projects in MEAN/MERN stacks and Design Systems.<br>
 💬 **Ask Me About:** Building scalable web apps and crafting intuitive UIs.<br>
 📫 **Contact:** **dev.dibyajc@gmail.com**<br>
