@@ -3,10 +3,10 @@
 <h1>👋 Hey there, I’m Dibyajyoti Choudhury!</h1>
 <h3>Your Friendly Neighborhood Software Engineer 👨‍💻</h3>
 
-🔍 **Seeking:** Exciting open-source projects in MEAN/MERN stacks and Design Systems.<br>
+🔍 **Seeking:** Exciting opportunities in Software Engineering.<br>
 💬 **Ask Me About:** Building scalable web apps and crafting intuitive UIs.<br>
 📫 **Contact:** **dev.dibyajc@gmail.com**<br>
-⚙️ **Primary Tech Stack:** TypeScript, Angular, React, Next.js, Tailwind, Node.js, Express, MongoDB.<br>
+⚙️ **Primary Tech Stack:** TypeScript, Angular, React, Next.js, Tailwind, Node.js, Express, Nest.js, MongoDB.<br>
 ⚡ **Fun Fact:** I code, therefore I am… funny (at least my console thinks so).<br>
 
 <h3 align="left">Connect with me:</h3>
