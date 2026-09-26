@@ -1,4 +1,4 @@
-<h1>👋 Hey there, I’m Dibyajyoti Choudhury!</h1>
+<h1>👋 Hey there, I’m Dibyajyoti!</h1>
 <h3>Your Friendly Neighborhood Software Engineer 👨‍💻</h3>
 
 🔍 **Seeking:** Exciting opportunities in Software Engineering.<br>
