@@ -3,7 +3,7 @@
 
 🔍 **Seeking:** Exciting opportunities in Software Engineering.<br>
 💬 **Ask Me About:** Building scalable web apps and crafting intuitive UIs.<br>
-📫 **Contact:** **dev.dibyajc@gmail.com**<br>
+📫 **Contact:** **dibyajc.dev@gmail.com**<br>
 ⚙️ **Primary Tech Stack:** TypeScript, Angular, React, Next.js, Tailwind, Node.js, Express, Nest.js, MongoDB.<br>
 ⚡ **Fun Fact:** I code, therefore I am… funny (at least my console thinks so).<br>
 
